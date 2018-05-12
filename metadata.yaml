@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Attributed to Donald Shaw or Ernest Widmington.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44163#London-in-the-Sixtieswith-a-few-digressions
 gutenberg_issued: '2013-11-11'
 gutenberg_type: Text
 identifiers:
