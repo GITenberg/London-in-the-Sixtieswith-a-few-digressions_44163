@@ -1,0 +1,30 @@
+_repo: London-in-the-Sixtieswith-a-few-digressions_44163
+_version: 0.1.0
+contributor:
+  dubious_authors:
+  - agent_name: Shaw, Donald
+    gutenberg_agent_id: '42711'
+    url: http://www.gutenberg.org/2009/agents/42711
+  - agent_name: Widmington, Ernest
+    gutenberg_agent_id: '42335'
+    url: http://www.gutenberg.org/2009/agents/42335
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Attributed to Donald Shaw or Ernest Widmington.
+gutenberg_issued: '2013-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Social life and customs -- 19th century'
+- !lcsh 'Hotels -- England -- London -- History'
+- !lcsh 'London (England) -- Description and travel'
+- !lcsh 'Bars (Drinking establishments) -- England -- London -- History'
+- !lcc 'DA'
+title: London in the Sixties (with a few digressions)
+url: http://www.gutenberg.org/ebooks/44163
